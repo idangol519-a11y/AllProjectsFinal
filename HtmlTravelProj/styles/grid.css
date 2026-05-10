@@ -1,0 +1,181 @@
+html{
+
+  font-size: 18px;
+  background-color: white;
+}
+
+header{
+  font-size: 5rem; 
+    gap: 50px;
+
+    h1{
+      text-align:center;
+    }
+
+}
+.images{
+  margin-top:50px;
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+ gap :10px;
+  
+}
+.images img{
+    width: 100%;   /* all images same width */
+   aspect-ratio: 2 / 3;
+  object-fit:fill; /* crops nicely */
+ 
+  
+}
+form{
+  justify-items: center;
+  display: grid;
+  grid-template-columns: 1fr;
+  text-align: center;
+  
+}
+
+button{
+margin-top: 10px;
+color: rgb(255, 255, 255);
+background-color:black;
+font-size: 1rem;
+}
+
+button:hover{
+ cursor: pointer;
+background-color: aqua;
+}
+
+.images:hover{
+  cursor: pointer;
+}
+/* image hover text */
+.image-container-aus {
+  position: relative;
+  display: inline-block;
+}
+
+.image-container-aus:hover{
+  opacity: 0.5;
+
+}
+
+.center-text-aus {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  width:100% ;
+  height:100%;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  opacity:0;
+}
+
+.center-text-aus:hover{
+ opacity:1;
+}
+
+.image-container-fr {
+  position: relative;
+  display: inline-block;
+}
+
+.image-container-fr:hover {
+  opacity: 0.5;
+}
+
+.center-text-fr {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.image-container-fr:hover .center-text-fr {
+  opacity: 1;
+}
+
+.image-container-jp {
+  position: relative;
+  display: inline-block;
+}
+
+.image-container-jp:hover {
+  opacity: 0.5;
+}
+
+.center-text-jp {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.image-container-jp:hover .center-text-jp {
+  opacity: 1;
+}
+
+.image-container-usa {
+  position: relative;
+  display: inline-block;
+}
+
+.image-container-usa:hover {
+  opacity: 0.5;
+}
+
+.center-text-usa {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.image-container-usa:hover .center-text-usa {
+  opacity: 1;
+}
+
+#NightMode:checked ~ .site{
+  background-color: black;
+  color: white;
+}
