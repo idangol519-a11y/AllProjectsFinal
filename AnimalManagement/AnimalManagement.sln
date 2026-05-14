@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37203.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalManagement", "AnimalManagement\AnimalManagement.csproj", "{12C11531-BBDF-4678-BA8F-C1BFE78A7364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalForm", "AnimalForm\AnimalForm.csproj", "{FC22D4B9-D84B-4120-B7C8-E43689F5928D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12C11531-BBDF-4678-BA8F-C1BFE78A7364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C11531-BBDF-4678-BA8F-C1BFE78A7364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C11531-BBDF-4678-BA8F-C1BFE78A7364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C11531-BBDF-4678-BA8F-C1BFE78A7364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC22D4B9-D84B-4120-B7C8-E43689F5928D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC22D4B9-D84B-4120-B7C8-E43689F5928D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC22D4B9-D84B-4120-B7C8-E43689F5928D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC22D4B9-D84B-4120-B7C8-E43689F5928D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19EE189C-7CDD-43E1-B927-6AA2F4F06074}
+	EndGlobalSection
+EndGlobal
