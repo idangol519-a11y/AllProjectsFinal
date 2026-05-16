@@ -1,0 +1,14 @@
+C:\Users\idang\source\repos\MediaProj\MediaProj\bin\Debug\net8.0\MediaProj.exe
+C:\Users\idang\source\repos\MediaProj\MediaProj\bin\Debug\net8.0\MediaProj.deps.json
+C:\Users\idang\source\repos\MediaProj\MediaProj\bin\Debug\net8.0\MediaProj.runtimeconfig.json
+C:\Users\idang\source\repos\MediaProj\MediaProj\bin\Debug\net8.0\MediaProj.dll
+C:\Users\idang\source\repos\MediaProj\MediaProj\bin\Debug\net8.0\MediaProj.pdb
+C:\Users\idang\source\repos\MediaProj\MediaProj\obj\Debug\net8.0\MediaProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idang\source\repos\MediaProj\MediaProj\obj\Debug\net8.0\MediaProj.AssemblyInfoInputs.cache
+C:\Users\idang\source\repos\MediaProj\MediaProj\obj\Debug\net8.0\MediaProj.AssemblyInfo.cs
+C:\Users\idang\source\repos\MediaProj\MediaProj\obj\Debug\net8.0\MediaProj.csproj.CoreCompileInputs.cache
+C:\Users\idang\source\repos\MediaProj\MediaProj\obj\Debug\net8.0\MediaProj.dll
+C:\Users\idang\source\repos\MediaProj\MediaProj\obj\Debug\net8.0\refint\MediaProj.dll
+C:\Users\idang\source\repos\MediaProj\MediaProj\obj\Debug\net8.0\MediaProj.pdb
+C:\Users\idang\source\repos\MediaProj\MediaProj\obj\Debug\net8.0\MediaProj.genruntimeconfig.cache
+C:\Users\idang\source\repos\MediaProj\MediaProj\obj\Debug\net8.0\ref\MediaProj.dll
